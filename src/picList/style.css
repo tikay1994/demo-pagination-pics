@@ -1,0 +1,10 @@
+.pic-list {
+    display: grid;
+    grid-template-columns: repeat(5, minmax(0, 1fr));
+    text-align: center;
+}
+.pic-product {
+    width: 18rem;
+    height: 20rem;
+    border: none;
+}
